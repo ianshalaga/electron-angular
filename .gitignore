@@ -40,3 +40,51 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+###
+
+# Node.js
+/node_modules
+/dist
+/out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+.env
+
+# SQLite Database
+*.db
+
+# Editor
+.idea/
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+/venv
+# env
+
+# Compiled Python files
+*.pyc
+
+# Compiled TypeScript files
+# *.js
+
+# Build files
+/dist
+
+# Angular specific
+/dist
+/.sass-cache
+/coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
